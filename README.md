@@ -1,4 +1,5 @@
 # MonsterSpace
+*(Developed as part of my studies at KYH in Malmö)*
 
 Welcome to MonsterSpace, a dynamic web application developed by Jacob Wessmark & Timothy Lundberg. Built with Flask, a micro web framework written in Python, MonsterSpace offers a platform for social interaction and content sharing.
 
